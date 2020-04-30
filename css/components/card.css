@@ -1,0 +1,24 @@
+.cards{
+  display:flex;
+  justify-content: space-between;
+}
+
+.card{
+  padding:20px;
+  text-align:center;
+  box-shadow: 0 0 5px rgb(230,230,230);
+}
+
+.card img{
+  height: 100px;
+}
+
+.links li{
+  display: inline;
+  text-decoration: none;
+}
+
+/*ul{
+  text-decoration: none;
+}
+*/
